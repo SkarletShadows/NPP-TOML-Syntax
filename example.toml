@@ -6,7 +6,8 @@ multiline_string = """ This is a collapsable multiline comment
  A fourth line.
 """
 
-number_example = [ inf, nan, +100, -100 ]
+number_example = [ inf, nan, +100, -100 true, false]
+number_example = [ inf, nan, +100, -100 true, false]
 
 [owner]
 author = "Theodor Lindberg"
@@ -17,6 +18,7 @@ server = "192.168.1.1"
 ports = [ 8001, 8002, 8003 ]
 connection_max = 5_000
 enabled = true
+enabled = false
 bin = 0b11111111
 
 [servers]
@@ -39,4 +41,4 @@ hosts = [
   "omega",
   'beta'
 ]
-	
+
