@@ -6,7 +6,7 @@ I created a version that does and touched up some colors.
 
 ## Download
 ### Method A - Manually save from raw
-1. Go to: [Raw TOML](https://raw.githubusercontent.com/SkarletShadows/NPP-TOML-Syntax/edit/master/TOML.xml)
+1. Go to: [Raw TOML](https://raw.githubusercontent.com/SkarletShadows/NPP-TOML-Syntax/master/TOML.xml)
 2. Press ```CTRL```+```S``` on your keyboard to save.
 
 ### Method B - Clone the repository
