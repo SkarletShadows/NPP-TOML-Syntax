@@ -23,6 +23,12 @@ I created a version that does and touched up some colors.
 Notepad++ should now automatically detect .toml syntaxing and highlight it
 > Re-open any existing files to refresh syntax hylighting in Notepad++
 
+## How to customize the colors
+1. Navigate ```Language``` > ```User Defined Language``` > ```Define your language...```
+2. Once there go to ```User Language``` > ```TOML``` > ```Comment and numbers``` > ```Styler``` > ```Foreground color```
+3. Select your color of choice!
+4. Select ```Ok```
+5. Close the windows! It will have saved automatically. Enjoy your color :)
 
 # Examples
 ![image](https://user-images.githubusercontent.com/49791649/194035194-013c25d4-5b7a-4780-b113-70c6fc7f8236.png)
@@ -32,10 +38,3 @@ Notepad++ should now automatically detect .toml syntaxing and highlight it
 ![image](https://user-images.githubusercontent.com/49791649/194036282-cbca2bb8-bb51-47bd-b452-8448159f2eee.png)
 ![image](https://user-images.githubusercontent.com/49791649/194036306-06d5c4a0-79ad-436c-9849-65349239d0fd.png)
 > This is one of the few I'd reccomend changing numbers color for.
-
-## How to customize the colors
-1. Navigate ```Language``` > ```User Defined Language``` > ```Define your language...```
-2. Once there go to ```User Language``` > ```TOML``` > ```Comment and numbers``` > ```Styler``` > ```Foreground color```
-3. Select your color of choice!
-4. Select ```Ok```
-5. Close the windows! It will have saved automatically. Enjoy your color :)
